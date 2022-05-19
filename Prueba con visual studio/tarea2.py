@@ -4,3 +4,4 @@ def doble_triple(numero):
 
 n= int(input('pedir un numero: '))
 print(doble_triple(n))
+
